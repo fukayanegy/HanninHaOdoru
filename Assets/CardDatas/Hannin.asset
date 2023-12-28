@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cf0a6db26e6ed742bef45646db6cb90, type: 3}
+  m_Name: Hannin
+  m_EditorClassIdentifier: 
+  cardName: "\u72AF\u4EBA"
+  cardType: 1
+  description: "\u63A2\u5075\u306B\u5F53\u3066\u3089\u308C\u3066\u3057\u307E\u3046\u3068\u6557\u3051\n\u6700\u5F8C\u306E\u624B\u672D\uFF11\u679A\u306E\u3068\u304D\u3060\u3051\u51FA\u305B\u308B\n\u51FA\u305B\u305F\u306A\u3089\u52DD\u3061"
